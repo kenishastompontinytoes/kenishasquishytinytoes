@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+
+}
+
+h1{
+font-size: 40px;
+font-family: 'Courier New', Courier, monospace;
+font-weight: 300;
+
+}
+
+#games{
+    background-color: aqua;
+
+}
+
+#app{
+    background-color: aquamarine;
+
+}
+
+img{
+    width: 50%;
+}
